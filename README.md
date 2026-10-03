@@ -1,23 +1,23 @@
-# 👋 Hi, I'm Robithan
+# 👋 Halo, saya Robithan!
 
-💻 Beginner Software Engineer  
-🌐 Networking & Web Development  
-🐧 Linux Enthusiast  
+💻 Pemula di bidang Software Engineering  
+🌐 Jaringan Komputer & Web Development  
+🐧 Penggemar Linux  
 
-> Learning to code, building things, and improving every day.
+> Belajar coding, membuat berbagai project, dan terus berkembang setiap hari.
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Sedang Dipelajari
 
 - 🌐 HTML & CSS
 - ⚡ JavaScript
 - 🔧 Git & GitHub
 - 🐧 Linux
-- 🌐 Computer Networking
+- 🌐 Jaringan Komputer
 - 📡 MikroTik
 
-## 🛠️ Tech Stack
+## 🛠️ Teknologi & Tools
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistik GitHub
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=robithanddev-d&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -42,24 +42,28 @@
 
 ---
 
-## 📂 Projects
+## 📂 Project
 
-🚧 Currently building my first projects.
+🚧 Saat ini sedang membangun project pertama saya.
 
-More projects coming soon...
-
----
-
-## 🎯 Goals
-
-- Build real-world projects
-- Improve my programming skills
-- Learn software engineering
-- Explore Linux & networking
-- Build useful applications
+**Project yang sedang dipelajari:**
+- 🌐 Website sederhana
+- 🔐 Halaman Login
+- 🐧 Project Linux
+- 🌐 Project Jaringan Komputer
 
 ---
 
-### 💡 Learning by building.
+## 🎯 Tujuan Saya
 
-⭐ Thanks for visiting my profile!
+- Membuat project yang bermanfaat
+- Meningkatkan kemampuan pemrograman
+- Memahami Software Engineering
+- Memperdalam Linux dan jaringan komputer
+- Membuat aplikasi sendiri
+
+---
+
+### 💡 Belajar dengan membuat.
+
+⭐ Terima kasih sudah mengunjungi profil saya!
