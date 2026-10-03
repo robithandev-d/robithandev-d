@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Robithan
 
-<!--
-**robithandev-d/robithandev-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Software Engineer
+🌐 Networking & Web Development
+🐧 Linux Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Linux
+- Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+VS Code • Git • GitHub • Linux • MikroTik
